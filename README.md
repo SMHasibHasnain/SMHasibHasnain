@@ -1,25 +1,26 @@
-👋 Hi, I’m S. M. Hasib Hasanain!
+# 👋 Hi, I’m S. M. Hasib Hasanain!
 
 Welcome to my GitHub! I’m a software engineering student passionate about coding, learning, and creating.
-🚀 What I’m Working On
 
-    Building cool mini projects and exploring innovative ideas.
-    Solving challenges in Data Structures and Algorithms.
-    Sharing my journey of mastering Java and other technologies.
+## 🚀 What I’m Working On
 
-💡 What You’ll Find Here
+    - Building cool mini projects and exploring innovative ideas.
+    - Solving challenges in Data Structures and Algorithms.
+    - Sharing my journey of mastering Java and other technologies.
 
-    Fun and practical projects.
-    Problem-solving solutions from coding competitions.
-    Resources and tools to learn and grow.
+## 💡 What You’ll Find Here
 
-🌱 Currently Learning
+    - Fun and practical projects.
+    - Problem-solving solutions from coding competitions.
+    - Resources and tools to learn and grow.
 
-    Advanced Java concepts.
-    Competitive programming strategies.
-    Exploring the world of game development and robotics.
+## 🌱 Currently Learning
 
-🌐 Let’s Connect!
+    - Advanced Java concepts.
+    - Competitive programming strategies.
+    - Exploring the world of game development and robotics.
+
+## 🌐 Let’s Connect!
 
     🌍 Website: hasibhasanain.com
     📫 Email: [your-email@example.com]

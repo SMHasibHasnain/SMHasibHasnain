@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I’m a software engineering student passionate about coding, learning, and creating.
 
+https://img.shields.io/badge/just%20the%20message-8A2BE2
+
 ## 🚀 What I’m Working On
 
     - Building cool mini projects and exploring innovative ideas.

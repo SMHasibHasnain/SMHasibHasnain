@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a software engineering student passionate about codi
     - Competitive programming strategies.
     - Exploring the world of game development and robotics.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhasibhasnain&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🌐 Let’s Connect!
 

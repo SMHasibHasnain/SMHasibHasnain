@@ -1,4 +1,5 @@
-<h2 align="center"><i> <!-- GREETING_PLACEHOLDER --> 👋<br>I’m Hasib Hasanain </i></h2>
+<!-- GREETING_PLACEHOLDER --> 
+<h2 align="center"><i>👋<br>I’m Hasib Hasanain </i></h2>
 
 <p align="center"><i> Welcome to my GitHub! I’m a software engineering and learning following technologies...</i></i></p>
 <div align="center">
@@ -35,7 +36,10 @@
 - <i>Exploring the world of game development and robotics.</i>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhasibhasnain&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhasibhasnain&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ovi" />
 
 <h3><i> 🌐 Let’s Connect!</i></h3>
 

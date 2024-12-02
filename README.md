@@ -1,4 +1,4 @@
-<h2 align="center"><i>👋<br>I’m Hasib Hasanain </i></h2>
+<h2 align="center"><i> <!-- GREETING_PLACEHOLDER --> 👋<br>I’m Hasib Hasanain </i></h2>
 
 <p align="center"><i> Welcome to my GitHub! I’m a software engineering and learning following technologies...</i></i></p>
 <div align="center">

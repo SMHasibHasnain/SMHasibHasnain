@@ -1,6 +1,6 @@
-# 👋 Hi, I’m S. M. Hasib Hasanain!
+<h1 align="center">👋 Hi, I’m S. M. Hasib Hasanain!</h1>
 
-Welcome to my GitHub! I’m a software engineering student passionate about coding, learning, and creating.
+<p align="center"> Welcome to my GitHub! I’m a software engineering student passionate about coding, learning, and creating.</p>
 
 ## 🚀 What I’m Working On
 

@@ -43,8 +43,8 @@
 
 <h3><i> 🌐 Let’s Connect!</i></h3>
 
-<i> 🌍 Website: hasibhasanain.com </i>
-<i> 📫 Email: [your-email@example.com] </i>
-<i> 💼 LinkedIn: Your LinkedIn </i>
+<i> 🌍 Website: <a href="hasibhasanain.com">hasibhasnain.com</a> </i> <br>
+<i> 📫 Email: hasibhasnain01@gmail.com </i> <br>
+<i> 💼 LinkedIn: <a href="hasibhasanain.com"> Hasib Hasnain</a> </i>
 
 <i> Feel free to explore my repositories, fork projects, or just drop a “Hi”! 😊 </i>

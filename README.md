@@ -1,6 +1,7 @@
 <!-- GREETING_PLACEHOLDER --> 
-<h2 align="center"><i>👋<br>I’m Hasib Hasanain </i></h2>
-
+<h2 align="center"><i>👋<br>I’m Hasib Hasanain </i><br>
+<a href="https://hasibhasnain.com"> <img align="center" src="https://img.shields.io/badge/Visit My Website-103166" alt="hasibhasnain.com" /></a><br><br>
+</h2>
 <p align="center"><i> Welcome to my GitHub! I’m a software engineering and learning following technologies...</i></i></p>
 <div align="center">
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>

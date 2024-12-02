@@ -36,10 +36,9 @@
 - <i>Exploring the world of game development and robotics.</i>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smhasibhasnain&show_icons=true&theme=blue-green)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=smhasibhasnain&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Hasib Hasnain's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhasibhasnain&layout=compact&theme=blue-green&hide_border=true" /> |
+| ------------- | ------------- |
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhasibhasnain&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ovi" />
 
 <h3><i> 🌐 Let’s Connect!</i></h3>
 

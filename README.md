@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a software engineering student passionate about codi
     - Competitive programming strategies.
     - Exploring the world of game development and robotics.
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /></div>
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="58" style="width: 58px; height: 58px; margin-right: 49px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" style="width: 58px; height: 58px; margin-right: 49px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="58" style="width: 58px; height: 58px; margin-right: 49px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" style="width: 58px; height: 58px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhasibhasnain&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 

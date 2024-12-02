@@ -1,4 +1,4 @@
-<h1 align="center">👋<br>Hello,<br>I’m S. M. Hasib Hasanain!</h1>
+<h1 align="center">👋 Hi<br>I’m S. M. Hasib Hasanain!</h1>
 
 <p align="center"> Welcome to my GitHub! I’m a software engineering student passionate about coding, learning, and creating.</p>
 <hr>

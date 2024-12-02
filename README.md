@@ -2,25 +2,23 @@
 
 Welcome to my GitHub! I’m a software engineering student passionate about coding, learning, and creating.
 
-https://img.shields.io/badge/just%20the%20message-8A2BE2
-
 ## 🚀 What I’m Working On
 
-    - Building cool mini projects and exploring innovative ideas.
-    - Solving challenges in Data Structures and Algorithms.
-    - Sharing my journey of mastering Java and other technologies.
+- Building cool mini projects and exploring innovative ideas.
+- Solving challenges in Data Structures and Algorithms.
+- Sharing my journey of mastering Java and other technologies.
 
 ## 💡 What You’ll Find Here
 
-    - Fun and practical projects.
-    - Problem-solving solutions from coding competitions.
-    - Resources and tools to learn and grow.
+- Fun and practical projects.
+- Problem-solving solutions from coding competitions.
+- Resources and tools to learn and grow.
 
 ## 🌱 Currently Learning
 
-    - Advanced Java concepts.
-    - Competitive programming strategies.
-    - Exploring the world of game development and robotics.
+- Advanced Java concepts.
+- Competitive programming strategies.
+- Exploring the world of game development and robotics.
 
 
 <div align="center">

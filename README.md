@@ -20,6 +20,8 @@ Welcome to my GitHub! I’m a software engineering student passionate about codi
     - Competitive programming strategies.
     - Exploring the world of game development and robotics.
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" height="43" /></div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhasibhasnain&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🌐 Let’s Connect!

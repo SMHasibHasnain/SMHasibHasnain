@@ -1,5 +1,5 @@
 <!-- GREETING_PLACEHOLDER --> 
-<h2 align="center"><i>👋<br>I’m Hasib Hasanain </i><br>
+<h2 align="center"><i>👋<br>I’m Hasib Hasnain </i><br>
 <a href="https://hasibhasnain.com"> <img align="center" src="https://img.shields.io/badge/Visit My Website-103166" alt="hasibhasnain.com" /></a><br><br>
 </h2>
 <p align="center"><i> Welcome to my GitHub! I’m a software engineering student and learning following technologies...</i></i></p>

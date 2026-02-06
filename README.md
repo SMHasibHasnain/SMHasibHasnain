@@ -1,3 +1,5 @@
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SMHasibHasnain&theme=dark)](https://git.io/streak-stats)
 <!-- GREETING_PLACEHOLDER --> 
 <h2 align="center"><i>👋<br>I’m Hasib Hasnain </i><br>
 <a href="https://hasibhasnain.com"> <img align="center" src="https://img.shields.io/badge/Visit My Website-103166" alt="hasibhasnain.com" /></a><br><br>

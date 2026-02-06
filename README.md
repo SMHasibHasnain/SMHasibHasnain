@@ -1,5 +1,3 @@
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SMHasibHasnain&theme=dark)](https://git.io/streak-stats)
 <!-- GREETING_PLACEHOLDER --> 
 <h2 align="center"><i>👋<br>I’m Hasib Hasnain </i><br>
 <a href="https://hasibhasnain.com"> <img align="center" src="https://img.shields.io/badge/Visit My Website-103166" alt="hasibhasnain.com" /></a><br><br>
@@ -17,6 +15,8 @@
 <code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 <hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SMHasibHasnain&theme=dark)](https://git.io/streak-stats)
 
 <h3><i> 🚀 What I’m Working On</i></h3>
 

@@ -16,7 +16,7 @@
 </div>
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SMHasibHasnain&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SMHasibHasnain&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=650)]
 
 <h3><i> 🚀 What I’m Working On</i></h3>
 
